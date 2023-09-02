@@ -40,9 +40,9 @@ export class HomePage implements OnInit {
     } else {
       // Filtra los pokemones que coincidan con el término de búsqueda.
       this.listPokemones = this.listPokemonesOriginal.filter(pokemon =>
-        pokemon.nombre.toLowerCase().includes(searchTerm.toLowerCase())
+        pokemon.nombre.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        pokemon.categoria.toLowerCase().includes(searchTerm.toLowerCase())
       );
     }
   }
-  
 }

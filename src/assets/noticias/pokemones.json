@@ -21,8 +21,12 @@
                     "value": "electrico"   
                 },
                 {
-                    "name": "Otro",
-                    "value": "otro"   
+                    "name": "Psiquico",
+                    "value": "psiquico"   
+                },
+                {
+                    "name": "Alfa",
+                    "value": "alfa"
                 }
             ]
         },
@@ -42,98 +46,180 @@
                 "tamano": "1,7 m",
                 "categoria": "Fuego",
                 "habilidad": "Mar llamas",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/95/latest/20160817212623/Charizard.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/95/latest/20160817212623/Charizard.png",
+                "generacion": "Primera",
+                "peso": "90,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Charmeleon",
                 "tamano": "1,1 m",
                 "categoria": "Fuego",
                 "habilidad": "Mar llamas",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/f/fb/latest/20200411222755/Charmeleon.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/f/fb/latest/20200411222755/Charmeleon.png",
+                "generacion": "Primera",
+                "peso": "19,0 kg",
+                "sexo": "Macho/Hembra"
             }, 
             {
                 "nombre": "Charmander",
                 "tamano": "0,6 m",
                 "categoria": "Fuego",
                 "habilidad": "Mar llamas",
-                "url_imag": "https://www.pngmart.com/files/13/Pokemon-Charmander-PNG-Pic.png"
+                "url_imag": "https://www.pngmart.com/files/13/Pokemon-Charmander-PNG-Pic.png",
+                "generacion": "Primera",
+                "peso": "8,5 kg",
+                "sexo": "Macho/Hembra"
             }, 
             {
                 "nombre": "Cinderace",
                 "tamano": "1,4 m",
                 "categoria": "Fuego",
                 "habilidad": "Mar llamas",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/3/36/latest/20191128020743/Cinderace.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/3/36/latest/20191128020743/Cinderace.png",
+                "generacion": "Octava",
+                "peso": "33,0 kg",
+                "sexo": "Macho/Hembra"
             },   
             {
                 "nombre": "Centiskorch",
                 "tamano": "3,0 m",
                 "categoria": "Fuego",
                 "habilidad": "Absorbe fuego / Humo blanco",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a3/latest/20220604130922/Centiskorch_HOME.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a3/latest/20220604130922/Centiskorch_HOME.png",
+                "generacion": "Octava",
+                "peso": "120,0 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Blastoise",
                 "tamano": "1,6 m",
                 "categoria": "Agua",
                 "habilidad": "Torrente",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/41/Blastoise.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/41/Blastoise.png",
+                "generacion": "Primera",
+                "peso": "85,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Inteleon",
                 "tamano": "1,9 m",
                 "categoria": "Agua",
                 "habilidad": "Torrente",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/66/latest/20191128020244/Inteleon.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/66/latest/20191128020244/Inteleon.png",
+                "generacion": "Octava",
+                "peso": "45,2 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Drednaw",
                 "tamano": "1,0 m",
                 "categoria": "Agua",
                 "habilidad": "Mandíbula fuerte / Caparazón",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/4e/latest/20200307052728/Drednaw.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/4e/latest/20200307052728/Drednaw.png",
+                "generacion": "Octava",
+                "peso": "115,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Sandslash",
                 "tamano": "1,0 m",
                 "categoria": "Tierra",
                 "habilidad": "Velo arena",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/1/13/latest/20230620060657/Sandslash.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/1/13/latest/20230620060657/Sandslash.png",
+                "generacion": "Primera",
+                "peso": "29,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Sandaconda",
                 "tamano": "3,8 m",
                 "categoria": "Tierra",
                 "habilidad": "Expulsarena / Mudar",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/c/cc/latest/20200307024753/Sandaconda.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/c/cc/latest/20200307024753/Sandaconda.png",
+                "generacion": "Octava",
+                "peso": "65,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Cubone",
                 "tamano": "0,4 m",
                 "categoria": "Tierra",
                 "habilidad": "Cabeza roca / Pararrayos",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/65/latest/20230716212229/Cubone.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/65/latest/20230716212229/Cubone.png",
+                "generacion": "Primera",
+                "peso": "6,5 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Pikachu",
                 "tamano": "0,4 m",
                 "categoria": "Electrico",
                 "habilidad": "Electricidad estática",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png",
+                "generacion": "Primera",
+                "peso": "6,0 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Toxtricity",
                 "tamano": "1,6 m",
                 "categoria": "Electrico",
                 "habilidad": "Punk rock / MásFA / MenosFG",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/7d/latest/20200205210216/Toxtricity.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/7d/latest/20200205210216/Toxtricity.png",
+                "generacion": "Octava",
+                "peso": "40,0 kg",
+                "sexo": "Macho/Hembra"
             },
             {
                 "nombre": "Pichu",
                 "tamano": "0,3 m",
                 "categoria": "Electrico",
                 "habilidad": "Electricidad estática",
-                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/9d/latest/20150620210539/Pichu.png"
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/9d/latest/20150620210539/Pichu.png",
+                "generacion": "Segunda",
+                "peso": "2,0 kg",
+                "sexo": "Macho/Hembra"
+            },
+            {
+                "nombre": "Mewtwo",
+                "tamano": "2,0 m",
+                "categoria": "Psiquico",
+                "habilidad": "Presión",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/d/d3/latest/20190408034831/Mewtwo.png",
+                "generacion": "Primera",
+                "peso": "122,0 kg",
+                "sexo": "Sin sexo"
+            },
+            {
+                "nombre": "Mew",
+                "tamano": "0,4 m",
+                "categoria": "Psiquico",
+                "habilidad": "Sincronía",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/b/bf/latest/20160311010530/Mew.png",
+                "generacion": "Primera",
+                "peso": "4,0 kg",
+                "sexo": "Sin sexo"
+            },
+            {
+                "nombre": "Darkrai",
+                "tamano": "1,5 m",
+                "categoria": "Alfa",
+                "habilidad": "Mal sueño",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/5/50/latest/20150214164357/Darkrai.png",
+                "generacion": "Cuarta",
+                "peso": "50,5 kg",
+                "sexo": "Sin sexo"
+            },
+            {
+                "nombre": "Rayquaza",
+                "tamano": "7,0 m",
+                "categoria": "Alfa",
+                "habilidad": "Esclusa de aire",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/66/latest/20150729161538/Rayquaza.png",
+                "generacion": "Tercera",
+                "peso": "206,5 kg",
+                "sexo": "Sin sexo"
             }
         ]             
     }
