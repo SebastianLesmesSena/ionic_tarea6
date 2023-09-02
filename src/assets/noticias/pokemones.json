@@ -1,0 +1,140 @@
+[
+    {
+        "pokemones": {
+            "name": "All",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Fuego",
+                    "value": "fuego"
+                },
+                {
+                    "name": "Agua",
+                    "value": "agua"   
+                },
+                {
+                    "name": "Tierra",
+                    "value": "tierra"   
+                },
+                {
+                    "name": "Electrico",
+                    "value": "electrico"   
+                },
+                {
+                    "name": "Otro",
+                    "value": "otro"   
+                }
+            ]
+        },
+        "detailPokemones": [
+            {
+                "nombre": "Arceus",
+                "tamano": "3,2 m",
+                "categoria": "Alfa",
+                "habilidad": "Multitipo",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/96/latest/20150601113031/Arceus.png",
+                "generacion": "Cuarta",
+                "peso": "320,0 kg",
+                "sexo": "Sin sexo"
+            },
+            {
+                "nombre": "Charizard",
+                "tamano": "1,7 m",
+                "categoria": "Fuego",
+                "habilidad": "Mar llamas",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/95/latest/20160817212623/Charizard.png"
+            },
+            {
+                "nombre": "Charmeleon",
+                "tamano": "1,1 m",
+                "categoria": "Fuego",
+                "habilidad": "Mar llamas",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/f/fb/latest/20200411222755/Charmeleon.png"
+            }, 
+            {
+                "nombre": "Charmander",
+                "tamano": "0,6 m",
+                "categoria": "Fuego",
+                "habilidad": "Mar llamas",
+                "url_imag": "https://www.pngmart.com/files/13/Pokemon-Charmander-PNG-Pic.png"
+            }, 
+            {
+                "nombre": "Cinderace",
+                "tamano": "1,4 m",
+                "categoria": "Fuego",
+                "habilidad": "Mar llamas",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/3/36/latest/20191128020743/Cinderace.png"
+            },   
+            {
+                "nombre": "Centiskorch",
+                "tamano": "3,0 m",
+                "categoria": "Fuego",
+                "habilidad": "Absorbe fuego / Humo blanco",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a3/latest/20220604130922/Centiskorch_HOME.png"
+            },
+            {
+                "nombre": "Blastoise",
+                "tamano": "1,6 m",
+                "categoria": "Agua",
+                "habilidad": "Torrente",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/41/Blastoise.png"
+            },
+            {
+                "nombre": "Inteleon",
+                "tamano": "1,9 m",
+                "categoria": "Agua",
+                "habilidad": "Torrente",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/66/latest/20191128020244/Inteleon.png"
+            },
+            {
+                "nombre": "Drednaw",
+                "tamano": "1,0 m",
+                "categoria": "Agua",
+                "habilidad": "Mandíbula fuerte / Caparazón",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/4/4e/latest/20200307052728/Drednaw.png"
+            },
+            {
+                "nombre": "Sandslash",
+                "tamano": "1,0 m",
+                "categoria": "Tierra",
+                "habilidad": "Velo arena",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/1/13/latest/20230620060657/Sandslash.png"
+            },
+            {
+                "nombre": "Sandaconda",
+                "tamano": "3,8 m",
+                "categoria": "Tierra",
+                "habilidad": "Expulsarena / Mudar",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/c/cc/latest/20200307024753/Sandaconda.png"
+            },
+            {
+                "nombre": "Cubone",
+                "tamano": "0,4 m",
+                "categoria": "Tierra",
+                "habilidad": "Cabeza roca / Pararrayos",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/6/65/latest/20230716212229/Cubone.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tamano": "0,4 m",
+                "categoria": "Electrico",
+                "habilidad": "Electricidad estática",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png"
+            },
+            {
+                "nombre": "Toxtricity",
+                "tamano": "1,6 m",
+                "categoria": "Electrico",
+                "habilidad": "Punk rock / MásFA / MenosFG",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/7/7d/latest/20200205210216/Toxtricity.png"
+            },
+            {
+                "nombre": "Pichu",
+                "tamano": "0,3 m",
+                "categoria": "Electrico",
+                "habilidad": "Electricidad estática",
+                "url_imag": "https://images.wikidexcdn.net/mwuploads/wikidex/9/9d/latest/20150620210539/Pichu.png"
+            }
+        ]             
+    }
+]

@@ -1,0 +1,20 @@
+ion-content ion-item div ion-card ion-item span,ion-icon{
+    cursor: pointer;
+}
+
+ion-content div ion-card{    /*aca se pone el cuerpo de las cartas*/}
+
+#starts{
+    margin: 20px;
+    text-align: center;
+}
+
+.hoverable-icon {
+    color: red; 
+    &:hover { color: aquamarine; }
+}
+  
+img {
+    width: 300px;
+    height: auto;
+}

@@ -1,0 +1,39 @@
+ion-content {
+    --background: url('https://play-lh.googleusercontent.com/t90xxnRcEv2astsxauyprwV8G3tLzrQaw0Bu_rrGj_XBytP-KdCT_Zz4FqwUWCESEQ') no-repeat center center / cover;
+  }  
+
+#formulario {
+    margin: auto;
+    margin-top: 25%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#formulario form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#formulario ion-item {
+    margin-bottom: 15px;
+    border-radius: 20px;
+    color: purple;
+}
+
+#formulario ion-button[type="submit"] {
+    --background: #000000;
+    --color: aqua;
+    --border-radius: 10px;
+}
+
+#formulario ion-button[type="submit"]:hover {
+    --background: red;
+    color: white;
+}
+
+
+

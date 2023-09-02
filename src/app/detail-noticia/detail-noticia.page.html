@@ -1,0 +1,40 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="">
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Detalle de las noticias</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  
+    <ion-item >
+      <div >
+        <ion-card>
+          <ion-item>
+            <h3>{{nombre}}</h3>
+            <span slot="end" (click)="back()"><ion-icon name="arrow-back-outline"></ion-icon></span>
+          </ion-item>
+          
+          <img alt="Silhouette of mountains" src={{url_imag}} />
+  
+          <ion-card-header>
+            <ion-toolbar>
+              <span><h1>Nombre:  {{nombre}}</h1></span>  
+            </ion-toolbar>
+          </ion-card-header>
+        
+          <ion-card-content>
+            <span> Tamaño: {{tamano}}</span> <br>
+            <span> Categoria: {{categoria}}</span> <br>
+            <span> Habilidad: {{habilidad}}</span> <br>
+            <span> Generacion:{{generacion}}</span> <br>
+            <span> Peso: {{peso}}</span> <br>
+            <span> Sexo: {{sexo}}</span> <br>
+          </ion-card-content>
+          
+        </ion-card>
+      </div>
+  </ion-item>
+</ion-content>
